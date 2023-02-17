@@ -12,6 +12,7 @@ cores = [
     "mgba",
     "mupen64plus_next_gles3",
     "pcsx_rearmed",
+    "swanstation",
     "ppsspp",
     "fbneo",
     "desmume",
